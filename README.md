@@ -1,6 +1,6 @@
 # joken_po
 
-![](https://github.com/OuroborosD/JokePo/blob/master/images/readme.PNG)
+![](https://github.com/OuroborosD/JokePo/blob/master/img-readme/readme.PNG)
 
 #### segundo aplicativo feito no curso, no curso Desenvolvimento Android e Ios com Flutter 2020 -Crie 15 Apps
 
