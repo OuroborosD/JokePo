@@ -1,8 +1,17 @@
 # joken_po
 
-A new Flutter application.
+![](https://github.com/OuroborosD/JokePo/blob/master/images/readme.PNG)
 
-## Getting Started
+#### segundo aplicativo feito no curso, no curso Desenvolvimento Android e Ios com Flutter 2020 -Crie 15 Apps
+
+## um jogo para passar o tempo.
+
+- [x] logica de programação
+
+- [x] funções com parametro
+
+- [x] sobre por imagens
+
 
 This project is a starting point for a Flutter application.
 
